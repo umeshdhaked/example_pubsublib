@@ -1,4 +1,4 @@
-module example.com/user/testcode
+module github.com/umeshdhaked/example_pubsublib
 
 go 1.16
 

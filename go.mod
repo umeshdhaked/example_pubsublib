@@ -2,4 +2,7 @@ module github.com/umeshdhaked/example_pubsublib
 
 go 1.16
 
-require github.com/umeshdhaked/awesomeProject/packages v0.0.0-20210524004634-ae64988b942c
+require (
+	// github.com/umeshdhaked/awesomeProject v1.2.0
+	github.com/umeshdhaked/awesomeProject/packages v0.0.0-20210524190046-69a9bc4c79cc
+)

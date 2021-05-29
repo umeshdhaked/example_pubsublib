@@ -1,2 +1,4 @@
-github.com/umeshdhaked/awesomeProject/packages v0.0.0-20210524004634-ae64988b942c h1:nvhYsy+ANQHoMRxbQdyCe/hpn3k+IVz7DJFUhqqYk6A=
-github.com/umeshdhaked/awesomeProject/packages v0.0.0-20210524004634-ae64988b942c/go.mod h1:ThPF2T3E5de1HN32vLqLP/iXtAFP7uaAyVhmj76mdHo=
+github.com/umeshdhaked/awesomeProject v1.2.0 h1:4QRFlOw2j2G84kicPUDyEmKeD52Nj3WHaSlACuPGBQU=
+github.com/umeshdhaked/awesomeProject v1.2.0/go.mod h1:AwQBKx85UkFLmx07UJG6Oc2CivQuCkG2oxm3da758PQ=
+github.com/umeshdhaked/awesomeProject/packages v0.0.0-20210524190046-69a9bc4c79cc h1:atLme78GK/EBnw1tTG69mQvWgoE68/ZRiMwO46qdPRM=
+github.com/umeshdhaked/awesomeProject/packages v0.0.0-20210524190046-69a9bc4c79cc/go.mod h1:ThPF2T3E5de1HN32vLqLP/iXtAFP7uaAyVhmj76mdHo=

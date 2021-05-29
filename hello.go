@@ -8,7 +8,7 @@ import (
 	"github.com/umeshdhaked/awesomeProject/packages/pubsub"
 )
 
-var pubSubObj pubsub.IPubSub = pubsub.GetPubSub()
+var pubSubObj pubsub.IPubSub = pubsub.NewPubSub()
 var topic1, topic2 string = "topic1", "topic2"
 var topic1_sub1, topic1_sub2, topic2_sub1 string = "topic1_sub1", "topic1_sub2", "topic2_sub1"
 
